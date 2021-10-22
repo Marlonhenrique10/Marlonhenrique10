@@ -5,8 +5,8 @@
 😄 -- ```Pronouns: Ele/Dele```
 
 
-<div align="center">
- <a href="https://github.com/Marlonhenrique10", >
+<div>
+ <a href="https://github.com/Marlonhenrique10">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marlonhenrique10&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlonhenrique10&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -21,10 +21,11 @@
   
  ##
   
- <div>
-   <a href="https://instagram.com/Marlon Henrique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
+   <a href="https://instagram.com/marlo_henri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatomarlon_henrique2002@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marlon-henrique-1ba1841a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+ 
   
 ![Snake animation](https://github.com/Marlonhenrique10/Marlonhenrique/blob/output/github-contribution-grid-snake.svg)
+</div>
