@@ -7,8 +7,8 @@
 
 <div align="center">
  <a href="https://github.com/Marlonhenrique10", >
- <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=Marlonhenrique&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
- <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlonhenrique&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marlonhenrique10&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlonhenrique10&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
