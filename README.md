@@ -1,7 +1,7 @@
 ## Oie! Eu sou o Marlon Henrique
 
 👨‍💻 -- ```Estou cursando a faculdade de Sistemas de Informações```
-📧 -- ```E-amil para contato: marlon_henrique2002@outlook.com```
+📧 -- ```E-mail para contato: marlon_henrique2002@outlook.com```
 😄 -- ```Pronouns: Ele/Dele```
 
 
