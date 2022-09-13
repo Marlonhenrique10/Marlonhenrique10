@@ -1,8 +1,9 @@
-## Oie! Eu sou o Marlon Henrique
+## Olá! Eu sou o Marlon Henrique
 
 👨‍💻 -- ```Estou cursando a faculdade de Sistemas de Informações```
 📧 -- ```E-mail para contato: marlon_henrique2002@outlook.com```
 😄 -- ```Pronouns: Ele/Dele```
+:video_game:	-- ```https://marlonhenrique10.github.io/JogoDaVelha/```
 
 
 <div>
