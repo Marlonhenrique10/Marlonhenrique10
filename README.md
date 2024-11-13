@@ -65,10 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Marlonhenrique10/Marlonhenrique10/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Marlonhenrique10/count.svg?"  />
 </div>
