@@ -1,29 +1,11 @@
-## Olá! Eu sou o Marlon Henrique
+<h2 align="left">E ai, prazer sou Marlon Henrique</h2>
 
-👨‍💻 -- ```Estou cursando a faculdade de Sistemas de Informações```
+###
 
-📧 -- ```E-mail para contato: marlon_henrique2002@outlook.com```
-
-😄 -- ```Pronouns: Ele/Dele```
-
-:video_game:	-- ```https://marlonhenrique10.github.io/JogoDaVelha/```
-
-<div style="display: inline_block"><br>
- <img align="center" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Marlon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Marlon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Marlon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Marlon-php"height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marlonhenrique10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marlonhenrique10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marlonhenrique10&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
- ##
-  
-<div>
-   <a href="https://instagram.com/marlo_henri?igshid=ZDskNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marlon_henrique2002@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marlon-henrique-1ba1841a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
-![Snake animation](https://github.com/Marlonhenrique10/Marlonhenrique/blob/output/github-contribution-grid-snake.svg)
-</div>
+###
