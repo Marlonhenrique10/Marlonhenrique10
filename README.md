@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Python Developer<br>- Back-end / RPA Developer<br>- Software Developer at @WK JobHub (TOTVS)<br>- Stuying .NET at @UNINOVE<br>- Working as a software developer for 3 years</p>
+<p align="left">- Python Developer<br>- Back-end / RPA Developer<br>- Software Developer at @4Handsbot Tecnologia<br>- Stuying .NET at @UNINOVE<br>- Working as a software developer for 3 years</p>
 
 ###
 
