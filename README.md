@@ -2,7 +2,18 @@
 
 ###
 
-<p align="left">- Python Developer<br>- Back-end / RPA Developer<br>- Software Developer at @4Handsbot Tecnologia<br>- Stuying .NET at @UNINOVE<br>- Working as a software developer for 3 years</p>
+<p align="left">- Backend Software Engineer | Python & TypeScript
+
+Building scalable APIs, distributed systems and cloud-native applications.
+
+🐍 Python — FastAPI, Django
+🟦 TypeScript — Node.js, NestJS
+☁️ AWS — S3, SQS, SNS, Lambda, ECS, DynamoDB
+🗄️ PostgreSQL, SQL Server, TypeORM
+🏗️ Clean Architecture, DDD & Microservices
+🤖 RPA & Automation
+
+Currently focused on building robust backend systems and continuously improving my software engineering skills.</p>
 
 ###
 
