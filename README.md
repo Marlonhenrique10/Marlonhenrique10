@@ -17,6 +17,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=node" height="40" alt="node logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nest" height="40" alt="nest logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />  
